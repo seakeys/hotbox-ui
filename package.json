@@ -1,0 +1,15 @@
+{
+  "name": "hotbox-ui",
+  "version": "1.0.0",
+  "description": "热盒 UI ====",
+  "main": "hotbox.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
